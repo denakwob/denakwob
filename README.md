@@ -20,6 +20,14 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=denakwob&theme=github-dark-blue&hide_border=true&card_width=1000&fire=EB5454&currStreakNum=EB5454&currStreakLabel=EB5454)](https://git.io/streak-stats)
+
+
 ---
 
 ### :man_technologist: About Me :
@@ -53,6 +61,13 @@
 
 🌱 Growing Green Developer: Passionate about sustainable technology and eco-friendly solutions.
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denakwob&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+| Repositories                                                                                                   | Commits                                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=denakwob&theme=dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=denakwob&theme=dark)|
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -72,12 +87,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
+
 ---
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=denakwob&theme=github-dark-blue&hide_border=true&fire=EB5454&dates=EB720B&currStreakNum=EB5454)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denakwob&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=react)
