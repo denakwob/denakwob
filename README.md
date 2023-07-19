@@ -27,19 +27,19 @@
 
 👨‍💻 Hey there, fellow coders! Welcome to my GitHub playground! Here's a glimpse of who I am and what I bring to the tech world:
 
-💡 Curious by Nature: Always on the lookout for new challenges and eager to learn. If there's a problem, I won't rest until I've found a solution!
+💡 Curious by Nature: Always on the lookout for new challenges and eager to learn. 
 
 🌌 Cosmic Explorer: I'm not just limited to one tech stack or language. I love venturing into new territories, exploring the vast universe of programming languages and frameworks.
 
-🌟 Creative Coding Enthusiast: Writing code is like creating a work of art. I enjoy weaving elegant solutions with a touch of creativity and innovation.
+🌟 Creative Coding Enthusiast: I enjoy weaving elegant solutions with a touch of creativity and innovation.
 
-🔧 Debugger at Heart: Bugs, beware! I have a knack for tracking down those elusive errors and squashing them like a pro. Debugging is like a puzzle, and I'm a master puzzler!
+🔧 Debugger at Heart: Debugging is like a puzzle, and I'm a master puzzler!
 
-🤝 Team Player: Collaboration makes the dream work. I thrive in a team environment, valuing communication and supporting my teammates to achieve greatness together.
+🤝 Team Player: I thrive in a team environment, valuing communication and supporting my teammates to achieve greatness together.
 
 🚴‍♂️ Agile Adventurer: I embrace the Agile methodology like a seasoned traveler, adapting to changing landscapes and delivering top-notch results in a dynamic world.
 
-📚 Continuous Learner: The tech world evolves at warp speed, and I'm committed to staying ahead of the curve. Learning is a lifelong journey, and I'm always ready for the next chapter.
+📚 Continuous Learner: The tech world evolves at warp speed, and I'm committed to staying ahead of the curve.
 
 🧩 Problem-Solving Guru: Complex challenges ignite my passion! Whether it's algorithmic riddles or real-world issues, I tackle them head-on, armed with my coding prowess.
 
@@ -47,32 +47,37 @@
 
 🌐 Web Weaver: I love spinning webs on the World Wide Web, crafting responsive and visually stunning websites that leave users in awe.
 
-📈 Data Driven: Data is the heartbeat of the digital age. I enjoy working with data, analyzing trends, and making informed decisions that drive success.
+📈 Data Driven: Data is the heartbeat of the digital age.
 
-🎮 Gamer Turned Coder: As a former avid gamer, I bring the strategic mindset of a seasoned player to my coding endeavors. Leveling up my skills is my ultimate quest!
+🎵 Rhythm of Automation: Mundane tasks have no chance against my automation skills.
 
-🎵 Rhythm of Automation: Mundane tasks have no chance against my automation skills. I believe in streamlining workflows to save time and effort.
+🌱 Growing Green Developer: Passionate about sustainable technology and eco-friendly solutions.
 
-🌱 Growing Green Developer: Passionate about sustainable technology and eco-friendly solutions. I believe in using code for a better, greener world.
-
-Welcome to my coding galaxy! Feel free to explore my repositories, and let's embark on a journey of innovation and excellence together. Happy coding! 🚀🌟
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
+   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=denakwob&theme=github-dark-blue&hide_border=true&fire=EB5454&dates=EB720B&currStreakNum=EB5454)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denakwob&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=react)
